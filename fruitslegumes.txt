@@ -1,0 +1,42 @@
+janvier - LÉGUMES: Ail, Betterave, Carotte, Céleri, Chou, Chou de Bruxelles, Courge, Crosne, Endive, Épinard, Frisée, Mâche, Navet, Oignon, Panais, Poireau, Pomme de terre, Salsifis, Topinambour.
+janvier - FRUITS: Citron, Clémentine, Kiwi, Mandarine, Orange, Pamplemousse, Poire, Pomme. 
+
+février - LÉGUMES: Ail, Betterave, Carotte, Céleri, Chou de Bruxelles, Crosne, Endive, Épinard, Frisée, Mâche, Navet, Oignon, Panais, Poireau, Pomme de terre, Radis, Salsifis, Topinambour.
+février - FRUITS: Citron, Clémentine, Kiwi, Mandarine, Orange, Pamplemousse, Poire, Pomme.
+
+mars - LÉGUMES: Ail, Asperge, Betterave, Blette, Carotte, Céleri, Chou, Chou-fleur, Chou, de Bruxelles, Crosne, Endive, Épinard, Frisée, Navet, Oignon, Panais, Poireau, Pomme de terre, Radis, Salsifis, Topinambour.
+mars - FRUITS: Citron, Kiwi, Orange, Pamplemousse, Poire, Pomme.
+
+avril - LÉGUMES: Ail, Artichaut, Asperge, Betterave, Blette, Carotte, Céleri, Chou-fleur, Concombre, Endive, Épinard, Frisée, Laitue, Navet, Oignon, Petit pois, Poireau, Pomme de terre, Radis.
+avril - FRUITS: Citron, Pamplemousse, Pomme.
+
+mai - LÉGUMES: Ail, Artichaut, Asperge, Aubergine, Betterave, Blette, Carotte, Céleri, Chou-fleur, Concombre, Courgette, Épinard, Laitue, Navet, Oignon, Petit pois, Pomme de terre, primeur, Radis, Tomate.
+mai - FRUITS: Cerise, Fraise, Pamplemousse, Rhubarbe
+
+juin - LÉGUMES: Ail, Artichaut, Asperge, Aubergine, Betterave, Blette, Brocoli, Carotte, Céleri, Concombre, Courgette, Épinard, Fenouil, Haricot vert, Laitue, Navet, Oignon, Petit pois, Poivron, Pomme de terre, primeur, Radis, Tomate.
+juin - CÉRÉALES: Avoine d’hiver, Avoine de printemps, Colza d’hiver, et de printemps, Orge d’hiver, Pois, Seigle.
+juin - FRUITS: Abricot, Cassis, Cerise, Fraise, Framboise, Groseille, Melon, Pamplemousse, Pastèque, Pêche, Prune, Rhubarbe.
+
+juillet - LÉGUMES: Ail, Artichaut, Asperge, Aubergine, Betterave, Blette, Brocoli, Carotte, Céleri, Concombre, Courgette, Épinard, Fenouil, Haricot vert, Laitue, Maïs, Oignon, Petit pois, Poivron, Pomme de terre, primeur, Radis, Tomate.
+juillet - CÉRÉALES: Avoine d’hiver, Avoine de printemps, Blé dur d’hiver et de printemps, Blé tendre d’hiver et de printemps, Colza d’hiver et de printemps, Féveroles et fèves, Orge d’hiver, Orge de printemps, Pois, Seigle, Triticale.
+juillet - FRUITS: Abricot, Cassis, Cerise, Figue, Fraise, Framboise, Groseille, Melon, Myrtille, Nectarine, Pastèque, Pêche, Poire, Prune, Rhubarbe.
+
+août - LÉGUMES: Ail, Artichaut, Aubergine, Betterave, Blette, Brocoli, Carotte, Céleri, Concombre, Courge, Courgette, Épinard, Fenouil, Frisée, Haricot vert, Laitue, Maïs, Oignon, Poivron, Pomme de terre, primeur, Radis, Tomate.
+août - CÉRÉALES: Avoine d’hiver, Avoine de printemps, Blé dur d’hiver et de, printemps, Blé tendre d’hiver et, de printemps, Féverole et fève, Orge de printemps, Pois, Seigle, Triticale.
+août - FRUITS: Abricot, Cassis, Figue, Fraise, Framboise, Groseille, Melon, Mirabelle, Mûre, Myrtille, Nectarine, Noisette, Pastèque, Pêche, Poire, Pomme, Prune, Pruneau, Raisin.
+
+septembre - LÉGUMES: Ail, Artichaut, Aubergine, Betterave, Blette, Brocoli, Carotte, Céleri, Chou, Chou-fleur, Chou de Bruxelles, Concombre, Courge, Courgette, Épinard, Fenouil, Frisée, Haricot vert, Laitue, Maïs, Oignon, Panais, Poireau, Poivron, Pomme de terre, Potiron, Radis, Tomate.
+septembre - CÉRÉALES: Tournesol.
+septembre - FRUITS: Coing, Figue, Melon, Mirabelle, Mûre, Myrtille, Noisette, Noix, Pastèque, Pêche, Poire, Pomme, Prune, Pruneau, Raisin.
+
+octobre - LÉGUMES: Ail, Aubergine, Betterave, Blette, Brocoli, Carotte, Céleri, Chou, Chou-fleur, Chou de, Bruxelles, Concombre, Courge, Courgette, Endive, Épinard, Fenouil, Frisée, Haricot, vert, Laitue, Mâche, Maïs, Navet, Oignon, Panais, Poireau, Pomme de terre, Potiron, Radis, Rutabaga, Salsifis, Tomate, Topinambour
+octobre - CÉRÉALES: Maïs, Riz, Soja, Sorgho.
+octobre - FRUITS: Châtaigne, Coing, Figue, Myrtille, Noisette, Noix, Poire, Pomme, Raisin.
+
+novembre - LÉGUMES: Ail, Betterave, Brocoli, Cardon, Carotte, Céleri, Chou, Chou-fleur, Chou de Bruxelles, Citrouille, Courge, Crosne, Endive, Épinard, Fenouil, Frisée, Mâche, Navet, Oignon, Panais, Poireau, Pomme de terre, Potiron, Radis, Rutabaga, Salsifis, Topinambour.
+novembre - CÉRÉALES: CEREAL, Maïs Sorgho.
+novembre - FRUITS: Citron, Châtaigne, Clémentine, Coing, Kiwi, Mandarine, Orange, Poire, Pomme.
+
+décembre - LÉGUMES: Ail, Betterave, Carotte, Céleri, Chou, Chou de Bruxelles, Courge, Crosne, Endive, Épinard, Frisée, Mâche, Navet, Oignon, Panais, Poireau, Pomme de terre, Potiron, Radis, Rutabaga, Salsifis.
+décembre - CÉRÉALES: Avoine d’hiver, Avoine de printemps, Blé dur d’hiver, et de printemps, Blé tendre d’hiver, et de printemps, Féverole et fève, Orge de printemps, Pois, Seigle.
+décembre - FRUITS: Citron, Châtaigne, Clémentine, Kiwi, Mandarine, Orange, Poire, Pomme.
