@@ -55,7 +55,7 @@ ligne_num_fruitslegumes_total=`grep -i -n $order_fruitslegumes $chemin | cut -d"
 ligne_num_fruitslegumes_total1="1"
 fruitslegumes_ok=""
 if [[ "$ligne_num_fruitslegumes_total" == "0" ]]; then 
-say "désolé, je n'ai touvé aucun mois correspondants à $order"
+say "désolé, je n'ai trouvé aucun mois correspondant à $order"
 return
 fi
 regarde_traitement_fruitslegumes
