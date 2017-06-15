@@ -1,5 +1,5 @@
 ## Description
-Ce plugin pour Jarvis permet de trouver à quel moment on peut manger tel ou tel fruit / légume !!
+Ce plugin pour Jarvis permet de trouver à quel saison on peut manger tel ou tel fruit / légume !!
 
 ## Languages
 
